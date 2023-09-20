@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Explore Naya Basti Bauddha</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link to an external stylesheet or include CSS styles here -->
+    <style>
+        /* Add any additional inline styles here if needed */
+        body {
+            background-color: #90EE90;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #f06d06;
+        }
+        .highlight-section {
+            background-color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+        .highlight-section h2 {
+            font-size: 24px;
+            color: #333;
+        }
+        .highlight-section p {
+            font-size: 18px;
+            color: #666;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .highlight-section img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Explore Naya Basti Bauddha</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#krishna-temple">Navatandham</a></li>
+            <li><a href="#sharveshwor-temple">Sharveshwor Temple</a></li>
+            <li><a href="#shanti-park">Shanti Park</a></li>
+            <li><a href="#jambu-danda">Jambu Danda</a></li>
+            <li><a href="#abc-old-age-home">ABC Old Age Home</a></li>
+        </ul>
+    </nav>
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navatandham</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link to an external stylesheet or include CSS styles here -->
+    <style>
+        /* Add any additional inline styles here if needed */
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #90EE90;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #f06d06;
+        }
+        .highlight-section {
+            background-color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+        .highlight-section h2 {
+            font-size: 24px;
+            color: #333;
+        }
+        .highlight-section p {
+            font-size: 18px;
+            color: #666;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .highlight-section img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Navatandham</h1>
+    </header>
+    
+    <section id="temple-architecture" class="highlight-section">
+        <h2>Temple Architecture</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/close%20up.webp" alt="Temple Architecture Image">
+        <p>Navatandham is a magnificent Krishna temple perched atop a small hill, offering a breathtaking spiritual and visual experience. The temple's architecture is a testament to exquisite craftsmanship, designed in the awe-inspiring Shikhar Style. Its resplendent exterior is adorned with gleaming golden plates, adding a touch of opulence to its divine aura.</p>
+    </section>
+    <section id="educational-hub" class="highlight-section">
+        <h2>Educational Hub</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/378302491_279428858206073_7143933986103599588_n.webp" alt="Educational Hub Image">
+        <p>Beyond its religious significance, Navatandham serves as an educational hub for Krishna culture, featuring a school where devotees can immerse themselves in the teachings and traditions associated with Lord Krishna. The temple complex also houses various buildings dedicated to the permanent residence of devotees who find solace in the presence of the divine.</p>
+    </section>
+    <section id="global-appeal" class="highlight-section">
+        <h2>Global Appeal</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/welcome.webp" alt="Global Appeal Image">
+        <p>What makes Navatandham even more remarkable is its global appeal. Donors from around the world generously contribute to the temple's operation and development, making it a symbol of unity and devotion that transcends borders.</p>
+    </section>
+    <section id="krishna-janmashtami" class="highlight-section">
+        <h2>Krishna Janmashtami</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/Krishna%20janmasthami.webp" alt="Krishna Janmashtami Image">
+        <p>One of the most enchanting moments at Navatandham occurs during Krishna Janmashtami, a Hindu festival celebrating Lord Krishna's birth. The temple becomes a focal point for devotees, attracting a vast crowd who come to partake in the festivities and seek blessings. Amidst the spiritual fervor, visitors often describe an overwhelming sense of peace and tranquility that washes over them.</p>
+    </section>
+    <section id="panoramic-vistas" class="highlight-section">
+        <h2>Panoramic Vistas</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/City%20view.webp" alt="Panoramic Vistas Image">
+        <p>Situated atop a hill, Navatandham offers panoramic vistas of some of Kathmandu's most iconic landmarks, including the majestic Boudhanath Stupa, the bustling Tribhuvan International Airport, the meandering Bagmati River, and a myriad of other captivating landscapes. Accessing this divine abode is made convenient by a well-constructed road that winds its way to the temple, inviting pilgrims and sightseers alike.</p>
+    </section>
+    <section id="aesthetic-appeal" class="highlight-section">
+        <h2>Aesthetic Appeal</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/floor.webp" alt="Aesthetic Appeal Image">
+        <p>The temple's aesthetic appeal is further enhanced by its tasteful decoration and the ample open space surrounding it, providing a serene and contemplative environment for all who visit. Navatandham is not just a place of worship; it's a harmonious blend of architecture, spirituality, and natural beauty that leaves an indelible mark on the hearts and souls of those fortunate enough to experience it.</p>
+    </section>
+    
+</body>
+</html>
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sarveshwar Mahadev</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link to an external stylesheet or include CSS styles here -->
+    <style>
+        /* Add any additional inline styles here if needed */
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #f06d06;
+        }
+        .highlight-section {
+            background-color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+        .highlight-section h2 {
+            font-size: 24px;
+            color: #333;
+        }
+        .highlight-section p {
+            font-size: 18px;
+            color: #666;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .highlight-section img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Sarveshwar Mahadev</h1>
+    </header>
+    
+    <section id="temple-architecture" class="highlight-section">
+        <h2>Temple Architecture</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/temple.webp" alt="Temple Architecture Image">
+        <p>The temple's architectural design draws inspiration from the majestic Pashupati Nath Temple, providing visitors with a glimpse of its grandeur. This design choice adds to the temple's aesthetic appeal, making it a truly beautiful sight to behold.</p>
+    </section>
+    <section id="religious-functions" class="highlight-section">
+        <h2>Religious Functions and Celebrations</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/379658065_686876540005081_6636205371701057155_n.webp" alt="Religious Functions Image">
+        <p>Sarveshwar Mahadev Temple isn't just a static religious site; it's a dynamic hub of religious activities. It hosts various religious functions, including marriage ceremonies and bratbandha, enriching the spiritual lives of the local community.</p>
+    </section>
+    <section id="spiritual-diversity" class="highlight-section">
+        <h2>Spiritual Diversity</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/insidee.webp" alt="Spiritual Diversity Image">
+        <p>One remarkable aspect of this temple is its inclusivity. It practically houses all Hindu deities, representing the diverse tapestry of beliefs within Hinduism. Moreover, the temple isn't confined to Hinduism alone; it also features idols of Lord Buddha and holy plants, embracing the broader spiritual landscape of Nepal.</p>
+    </section>
+    <section id="natural-beauty" class="highlight-section">
+        <h2>Natural Beauty</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/bell.webp" alt="Natural Beauty Image">
+        <p>Surrounded by lush greenery and an abundance of flora, including Rudraksha, Shree Khanda, Bel Patra, Bar Pipal, and Sami trees, the temple's environment adds to its tranquil and spiritual aura. The presence of these sacred trees further connects the temple to the natural world and enhances the visitor's sense of serenity.</p>
+    </section>
+    <section id="community-engagement" class="highlight-section">
+        <h2>Community Engagement and Safety</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/entry.webp" alt="Community Engagement Image">
+        <p>Sarveshwar Mahadev Temple is not only a place of worship but also a safe haven. During the devastating earthquake of April 25, 2015, it served as a refuge for the local community, emphasizing its role as a center of spiritual and community life.</p>
+    </section>
+    <section id="committee-and-caretakers" class="highlight-section">
+        <h2>Committee and Caretakers</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/cow.webp" alt="Committee and Caretakers Image">
+        <p>The temple's upkeep and management are entrusted to a dedicated committee comprising 17 members. Their tireless efforts ensure that the temple remains well-maintained and continues to serve as a spiritual beacon for generations to come.</p>
+    </section>
+    
+</body>
+</html>
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shanti Park</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link to an external stylesheet or include CSS styles here -->
+    <style>
+        /* Add any additional inline styles here if needed */
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #f06d06;
+        }
+        .highlight-section {
+            background-color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+        .highlight-section h2 {
+            font-size: 24px;
+            color: #333;
+        }
+        .highlight-section p {
+            font-size: 18px;
+            color: #666;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .highlight-section img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Shanti Park</h1>
+    </header>
+    
+    <section id="facilities-for-wellness" class="highlight-section">
+        <h2>Facilities for Wellness and Recreation</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/park.webp" alt="Facilities for Wellness Image">
+        <p>Shanti Park offers a range of amenities that cater to the diverse needs of its visitors. For those inclined towards physical fitness, the park boasts exercise equipment, providing an opportunity for locals to maintain a healthy lifestyle. There is ample space for running and playing, allowing children and adults alike to enjoy outdoor activities.</p>
+    </section>
+    <section id="community-gathering-space" class="highlight-section">
+        <h2>Community Gathering Space</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/structure.webp" alt="Community Gathering Space Image">
+        <p>One of the park's standout features is a small stage, which serves as a platform for conducting small gatherings and events. This multifunctional area brings the community together for various cultural, social, and recreational activities. It fosters a sense of togetherness and allows locals to celebrate their cultural heritage and traditions.</p>
+    </section>
+    <section id="revival-of-natural-beauty" class="highlight-section">
+        <h2>Revival of Natural Beauty</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/farm.webp" alt="Revival of Natural Beauty Image">
+        <p>Shanti Park was not always the vibrant and well-maintained space it is today. In the past, neglect had taken its toll, and the park was marred by muddy terrain and dirt. Water is used to collect around the pits, creating an unsightly and unhygienic environment.</p>
+    </section>
+    <section id="a-community-united" class="highlight-section">
+        <h2>A Community United</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/379658065_686876540005081_6636205371701057155_n.webp" alt="A Community United Image">
+        <p>The journey to Shanti Park was not without its challenges. At one point, a dispute arose among the locals regarding the park's future. Some advocated for preserving its natural state, while others saw the potential for creating a modern, well-managed park. This difference in opinion could have led to further neglect or division within the community.</p>
+    </section>
+    
+</body>
+</html>
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jambu Danda</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link to an external stylesheet or include CSS styles here -->
+    <style>
+        /* Add any additional inline styles here if needed */
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #f06d06;
+        }
+        .highlight-section {
+            background-color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+        .highlight-section h2 {
+            font-size: 24px;
+            color: #333;
+        }
+        .highlight-section p {
+            font-size: 18px;
+            color: #666;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .highlight-section img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Jambu Danda</h1>
+    </header>
+    
+    <section id="funerary-practices" class="highlight-section">
+        <h2>Funerary Practices</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/fire.webp" alt="Funerary Practices Image">
+        <p>Jambu Danda serves as a gathering place for Buddhist communities to perform funeral rites. It is a solemn and respectful space where the deceased are cremated according to Buddhist customs. The rituals and ceremonies conducted here are deeply rooted in Buddhist traditions and beliefs, reflecting the cultural diversity of Nepal.</p>
+    </section>
+    <section id="monuments-and-resting-places" class="highlight-section">
+        <h2>Monuments and Resting Places</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/trees.webp" alt="Monuments and Resting Places Image">
+        <p>Within the premises of Jambu Danda, several monuments and resting places have been constructed. These structures may include stupas, chortens, or memorial markers dedicated to individuals or families. They serve as both places of remembrance and symbols of the departed's journey into the afterlife.</p>
+    </section>
+    <section id="location-and-accessibility" class="highlight-section">
+        <h2>Location and Accessibility</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/flags.webp" alt="Location and Accessibility Image">
+        <p>Jambu Danda is located in a serene natural environment, surrounded by a small jungle. It offers breathtaking panoramic views of the surrounding landscape, including the meandering Bagmati River. Visitors can easily access the site via a well-constructed staircase, ensuring that families and mourners can pay their respects and perform the necessary rituals without difficulty.</p>
+    </section>
+    <section id="notable-landmarks" class="highlight-section">
+        <h2>Notable Landmarks</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/build.webp" alt="Notable Landmarks Image">
+        <p>The site also provides excellent vistas of notable landmarks in the region, including the operations of the Tribhuvan International Airport, a major transportation hub, and the Navatandham, a renowned Krishna temple.</p>
+    </section>
+    
+</body>
+</html>
+
+    <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ABC Home: Where Care Meets Community and Creativity</title>
+    <link rel="stylesheet" href="styles.css"> <!-- You can link to an external stylesheet or include CSS styles here -->
+    <style>
+        /* Add any additional inline styles here if needed */
+        body {
+            background-color: #f2f2f2;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        nav {
+            background-color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+        nav ul {
+            list-style-type: none;
+            margin: 0;
+            padding: 0;
+        }
+        nav li {
+            display: inline;
+            margin-right: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            font-weight: bold;
+        }
+        nav a:hover {
+            color: #f06d06;
+        }
+        .highlight-section {
+            background-color: #fff;
+            padding: 40px 0;
+            text-align: center;
+        }
+        .highlight-section h2 {
+            font-size: 24px;
+            color: #333;
+        }
+        .highlight-section p {
+            font-size: 18px;
+            color: #666;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+        .highlight-section img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+        }
+        footer {
+            background-color: #f06d06;
+            color: #fff;
+            text-align: center;
+            padding: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>ABC Home: Where Care Meets Community and Creativity</h1>
+    </header>
+    
+    <section id="hub-of-health-wellness" class="highlight-section">
+        <h2>Hub of Health and Wellness</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/entrance.webp" alt="Hub of Health and Wellness Image">
+        <p>Imagine a place where the essence of care and the spirit of community come together in perfect harmony. Welcome to ABC Home, where 'ABC' stands for Aama Buba Care Home, a haven of compassion and vitality nestled in the heart of Nayabasti Bauddha, Kathmandu.</p>
+    </section>
+    <section id="celebrating-unity-joy" class="highlight-section">
+        <h2>Celebrating Unity and Joy</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/oldage-home.webp" alt="Celebrating Unity and Joy Image">
+        <p>Beyond its commitment to health, ABC Home is a place where joy and unity flourish. Imagine holiday gatherings where laughter echoes through the halls and smiles light up every corner. ABC Home serves as a vibrant hub for artists within the community, providing a stage where creativity and talent can shine. In those precious off-hours, the community comes alive with performances that bring people together in celebration.</p>
+    </section>
+    <section id="ray-of-hope-for-elderly" class="highlight-section">
+        <h2>A Ray of Hope for the Elderly</h2>
+        <img src="file:///C:/Users/vs/Documents/Downloads/377693100_1039945737348904_4733756853902614825_n_1.webp" alt="Ray of Hope for the Elderly Image">
+        <p>For the elderly residents of ABC Home, it is not just a place to stay; it is their sanctuary of hope. Surrounded by the warmth of caregivers and the embrace of fellow residents, they find solace in their golden years. ABC Home is more than a shelter; it is a family where bonds are forged, stories are shared, and memories are created.</p>
+    </section>
+    
+</body>
+</html>
+
+    <footer>
+        <p>Let's learn more about the vibrant and culturally rich community of Naya Basti Bauddha.</p>
+    </footer>
+</body>
+</html>
